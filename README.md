@@ -32,6 +32,30 @@ A solução é uma página web que oferece informações para conscientização 
 ## Modelo da arquitetura
 ![Diagrama sem nome (2) drawio](https://github.com/ViniciusCasF/Trabalho_Pratico/assets/162627005/26a59175-d741-4972-b020-94feb85d1b72)
 
+## As escolhas de tecnologias
+O meu projeto vai usar as tecnologias:
+
+**HTML** Para a formatação das paginas.
+
+**CSS** Para melhorar o design.
+
+**JAVASCRIPT** Para fazer as interações das paginas.
+
+## O projeto arquitetural elaborado
+O meu projeto foi feito se baseando no C4 model, onde no **diagrama de contexto** do sistema possui o sistema e o usuário interagindo com o mesmo,
+e o meu sistema é composto por 4 páginas web, que nada mais são que os meus **containers**, e a primeira apresenta um pouco sobre o projeto, além de apresentar mais 3 páginas, a de dicas, que vai ser composta por alguns textos e dados
+estatísticos para incentivar o usuário que visitou a página para investir em energia limpa e acessível. A outra é uma página com 
+indicações de onde e quais produtos comprar, com algumas sugestões de preços, e um link de redirecionamento 
+para sites de terceiros. E por fim as páginas possuem os **componentes**, a primeira possui um banner com frases sobre a energia limpa e acessível, além de 3
+botões que vão direcionar para as outras 3 páginas, na de dicas possui uma caixa de texto que vai conter as informações já apresentadas, na página 
+de indicações vai ter caixas de texto para fazer uma breve descrição do produto que está sendo apresentado, além de uma imagem e o link de redirecionamento 
+para o site de venda, e por fim a página de instruções, que possui uma caixa de texto com o nome do produto, e dois links de redirecionamento, um para baixar
+o manual do produto e o outro com um vídeo de explicação do manuseio do produto recomendado.
+
+## A justificativa do modelo escolhido
+O modelo escolhido foi o de camadas, e isso se deve pela simplicidade que é entender o mesmo, além de como o meu 
+projeto não é grande, a estrutura do mesmo fica bem mais organizada.
+
 
 ## Casos de teste
 
