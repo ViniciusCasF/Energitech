@@ -29,6 +29,10 @@ A solução é uma página web que oferece informações para conscientização 
 ## Casos de uso
 ![Diagrama sem nome drawio](https://github.com/ViniciusCasF/Trabalho_Pratico/assets/162627005/0f00bcb8-2cb2-45fd-856e-bb32e3a16d4d)
 
+## Modelo da arquitetura
+![Diagrama sem nome (2) drawio](https://github.com/ViniciusCasF/Trabalho_Pratico/assets/162627005/26a59175-d741-4972-b020-94feb85d1b72)
+
+
 ## Casos de teste
 
 ### Página Principal
