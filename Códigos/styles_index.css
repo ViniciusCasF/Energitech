@@ -1,0 +1,140 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .texto-banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+  }
+  .banner-slide {
+    display: none;
+    width: 100%;
+    padding: 55px;
+    color: blue;
+    font-size: 40px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  .bloco {
+    text-align: center;
+    padding-top: 60px;
+    background-image: url(Imagens_index/Banner.jpg);
+    height: 150px;
+    border-radius: 20px;
+    margin: 10px;
+    position: relative;
+    z-index: 0;
+  }
+  div.imagem2{
+    border: solid 1px black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-image: url(Imagens_index/Compras.jpg);
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    background-size: cover;
+    position: absolute;
+    left: 50px;
+  }
+  div.imagem3{
+    border: solid 1px black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-image: url(Imagens_index/Manuais.jpg);
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    background-size: cover;
+    position: absolute;
+    left: 678px;
+  }
+  div.imagem4{
+    border: solid 1px black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-image: url(Imagens_index/Dicas.jpg);
+    height: 700px;
+    width: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    background-size: cover;
+    position: absolute;
+    left: 1305px;
+  }
+  .custom-button{ 
+    position: relative;
+    border: solid 1px blue;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    padding: 30px 80px;
+    cursor: pointer;
+    outline: none;
+    text-align: center;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s; 
+    margin-top: 390px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .custom-button:hover {
+    background-color: blue;
+    color: white;
+  }
+  .custom-button1{ 
+    position: relative;
+    border: solid 1px blue;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    padding: 20px 40px;
+    cursor: pointer;
+    outline: none;
+    text-align: center;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s; 
+    margin-top: 350px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .custom-button1:hover {
+    background-color: blue;
+    color: white;
+  }
+  .custom-button2{
+    position: relative;
+    border: solid 1px blue;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    padding: 20px 120px;
+    cursor: pointer;
+    outline: none;
+    text-align: center;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s; 
+    margin-top: 275px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .custom-button2:hover{
+    background-color: blue;
+    color: white;
+  }
+
+  
